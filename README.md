@@ -2,6 +2,15 @@
 
 Resources for a Cyber Security workshop using the micro:bit
 
+To load any of these programs onto the micro:bit:
+
+1. right-click on the name, choose 'save as...' and save in Downloads
+
+2. plug in the micro:bit to the USB port
+
+3. drag and drop the .hex file onto the MICROBIT drive
+
+
 [1. default-password](https://raw.githubusercontent.com/whaleygeek/cyber/master/for_microbit/microbit-default-password.hex)
 
 [2. short-password](https://raw.githubusercontent.com/whaleygeek/cyber/master/for_microbit/microbit-short-password.hex)
@@ -16,25 +25,13 @@ Resources for a Cyber Security workshop using the micro:bit
 
 [7. wireless-rx](https://raw.githubusercontent.com/whaleygeek/cyber/master/for_microbit/microbit-wireless-rx.hex)
 
-[8. caeser-tx] SECRET!
-
 [9. caeser-rx](https://raw.githubusercontent.com/whaleygeek/cyber/master/for_microbit/microbit-caeser-rx.hex)
-
-[10. door-push] SECRET!
-
-[11. door-bell] SECRET!
-
-[12. hack-bell] SECRET!
 
 [13. secret-receiver](https://raw.githubusercontent.com/whaleygeek/cyber/master/for_microbit/secret-receiver.hex)
 
-[13b. secret-receiver.py](https://raw.githubusercontent.com/whaleygeek/cyber/master/for_microbit/secret-receiver.py)
+Also, here is the Python source code for the secret-receiver sniffer program.
+Just click on this link to read the source code
 
-To load a program onto the micro:bit:
+[13b. secret-receiver.py](https://github.com/whaleygeek/cyber/blob/master/for_microbit/secret-receiver.py)
 
-1. right-click on the name, choose 'save as...' and save in Downloads
-
-2. plug in the micro:bit to the USB port
-
-3. drag and drop the .hex file onto the MICROBIT drive
 
