@@ -12,7 +12,7 @@ Resources for a Cyber Security workshop using the micro:bit
 
 [5. wire-tap](https://raw.githubusercontent.com/whaleygeek/cyber/master/for_microbit/microbit-wire-tap.hex)
 
-[6. teleporting-duck](https://raw.githubusercontent.com/whaleygeek/cyber/master/for_microbit/teleporting-duck.hex)
+[6. teleporting-duck](https://raw.githubusercontent.com/whaleygeek/cyber/master/for_microbit/microbit-teleporting-duck.hex)
 
 [7. wireless-rx](https://raw.githubusercontent.com/whaleygeek/cyber/master/for_microbit/microbit-wireless-rx.hex)
 
