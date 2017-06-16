@@ -26,7 +26,9 @@ Resources for a Cyber Security workshop using the micro:bit
 
 [12. hack-bell] SECRET!
 
-[13. secret-receiver](https://raw.githubusercontent.com/whaleygeek/cyber/master/for_microbit/microbit-secret-receiver.hex)
+[13. secret-receiver](https://raw.githubusercontent.com/whaleygeek/cyber/master/for_microbit/secret-receiver.hex)
+
+[13b. secret-receiver.py](https://raw.githubusercontent.com/whaleygeek/cyber/master/for_microbit/secret-receiver.py)
 
 To load a program onto the micro:bit:
 
