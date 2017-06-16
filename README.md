@@ -8,7 +8,7 @@ Resources for a Cyber Security workshop using the micro:bit
 
 [3. unlocked](https://raw.githubusercontent.com/whaleygeek/cyber/master/for_microbit/microbit-unlocked.hex)
 
-[4. locked] (https://raw.githubusercontent.com/whaleygeek/cyber/master/for_microbit/microbit-locked.hex)
+[4. locked](https://raw.githubusercontent.com/whaleygeek/cyber/master/for_microbit/microbit-locked.hex)
 
 [5. wire-tap](https://raw.githubusercontent.com/whaleygeek/cyber/master/for_microbit/microbit-wire-tap.hex)
 
