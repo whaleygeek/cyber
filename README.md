@@ -10,6 +10,12 @@ To load any of these programs onto the micro:bit:
 
 3. drag and drop the .hex file onto the MICROBIT drive
 
+SNIFFER
+
+(https://raw.githubusercontent.com/whaleygeek/cyber/master/for_microbit/microbit-sniffer.hex)
+
+
+
 
 [1. default-password](https://raw.githubusercontent.com/whaleygeek/cyber/master/for_microbit/microbit-default-password.hex)
 
